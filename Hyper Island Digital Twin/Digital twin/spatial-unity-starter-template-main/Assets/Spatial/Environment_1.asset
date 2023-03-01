@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 0
   sku: 
-  packageName: Environment_1
+  packageName: HyperIslandDigitalTwin
   thumbnail: {fileID: 0}
   variants:
   - name: Default
-    id: 
-    scene: {fileID: 0}
-    thumbnail: {fileID: 0}
+    id: 4574e1359e034576abc4cbc8974c9d3b
+    scene: {fileID: 102900000, guid: 07f6c104c90ba4d488a678c91d8c31b4, type: 3}
+    thumbnail: {fileID: 2800000, guid: 8556be473992b42dbb7035908e118623, type: 3}
     miniThumbnail: {fileID: 0}
-    thumbnailColor: {r: 0, g: 0, b: 1, a: 1}
+    thumbnailColor: {r: 0.95294124, g: 0.5882353, b: 0.5647059, a: 1}
