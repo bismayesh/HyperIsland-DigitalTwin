@@ -16,4 +16,5 @@ MonoBehaviour:
   _packages:
   - {fileID: 11400000, guid: 569a42f9f531343abba7ac4a2c933fcf, type: 2}
   - {fileID: 11400000, guid: 0c865a61d662345f3b9ee869afb53f30, type: 2}
-  _currentPackageIndex: 1
+  - {fileID: 11400000, guid: 1798d467889fefc4b940bcfd2d7c2859, type: 2}
+  _currentPackageIndex: 2
